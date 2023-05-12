@@ -1,0 +1,2 @@
+each dental image has it own corresponding xml file with name.
+the missing xml file means sound dental image (having no cavity).

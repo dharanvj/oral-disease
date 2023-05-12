@@ -1,0 +1,23 @@
+<annotation>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pockets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>2</ymin>
+			<xmax>340</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

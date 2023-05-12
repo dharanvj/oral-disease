@@ -1,0 +1,35 @@
+<annotation>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>748</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cavity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>11</ymin>
+			<xmax>365</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cavity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>61</ymin>
+			<xmax>468</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
