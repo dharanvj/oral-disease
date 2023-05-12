@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 10
+names: ['abutment', 'canine', 'crown', 'implant', 'implant_minus', 'implant_plus', 'incisor', 'inlay', 'molar', 'premolar']
